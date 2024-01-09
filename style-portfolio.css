@@ -1,0 +1,311 @@
+
+body{
+
+    display: 100%;
+    
+    
+}
+
+
+/*header-section*/
+
+.happy{
+
+    
+    color: white;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.new-year{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px; /* 131.944% */
+    width: 632px;
+    margin: auto; 
+    
+    
+    /* 131.944% */
+}
+.banner{
+
+    background-image: url("images/Banner image.png");
+    background-repeat: no-repeat;    
+    width: 1320px;
+    height: 600px;
+    margin: 50px auto;
+    padding-top:126px;
+    border-radius: 16px;
+    
+}
+
+/*main section*/
+/*section1*/
+
+.discount{
+
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.describe{
+
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.describe-2{
+
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.new-year-pic{
+
+    width: 802.9px;
+    height: 500px;
+    display: block;
+    margin: auto;
+    
+    
+}
+
+/*section-2*/
+
+.section2{
+
+    margin-top:50px;
+    margin-bottom: 100px;
+    display: block;
+
+    background-image: url("images/Vectorrr.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+    
+
+
+.describe3{
+
+    
+    background-image: url("images/Group 70.png ");
+    background-repeat:no-repeat ;
+    background-position: center right ; 
+    width: 1320px;
+    height: 650px;
+    flex-shrink: 0;
+   
+    
+    
+}
+
+.welcome{
+    
+    width: 642px;
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 75px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px; /* 137.5% */
+    letter-spacing: 7.04px;
+    padding-left: 270px;
+    padding-top: 135px;
+    
+    
+    
+}
+
+.write{
+
+    width: 800;
+
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+    padding-right: 310px;
+    padding-bottom: 20px;
+    padding-left: 280px;
+    
+    
+    
+    
+
+
+}
+
+.join{
+
+    color: white;
+    text-align: center ;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: uppercase;
+    padding-right:665px;
+    
+    
+}
+    
+
+/*section-3*/
+
+.section3{
+
+    padding: 50px 0px 100px 0;
+    border-radius: 8px ; 
+    margin-right: 90px; 
+    margin-left: 90px;  
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.151) 0%, rgba(255, 0, 0, 0.00) 100%);
+    margin-bottom: 100px;
+    
+
+}
+
+.describe4{
+
+    color: #070211;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px;
+text-transform: capitalize;
+text-align: center;
+
+}
+
+
+.describe4 span{
+
+    color: red; 
+}
+
+.join-now{
+
+    width:100px;
+    height:50px ;
+    color: white;
+    background-color: #F00;
+    font-weight: 700;
+    
+    
+    
+}
+.group70{
+
+   background-position: center right;
+}
+
+/* section-4*/
+
+.section4{
+
+    margin: 300px 500px 400px 100px ;
+    
+}
+.describe5{
+
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
+    
+    
+
+ 
+    
+   
+}
+.describe6{
+
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.describe7{
+
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 160% */
+}
+
+.row{
+
+    display:flex
+}
+
+.image{
+
+    width: 100px;
+    height: auto;
+    margin: 5px;
+}
+
+/*section-5*/
+
+.section5{
+
+    padding: 50px 0px 100px 0;
+    border-radius: 8px ; 
+    margin-right: 90px; 
+    margin-left: 90px;  
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.151) 0%, rgba(255, 0, 0, 0.00) 100%);
+    margin-bottom: 100px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

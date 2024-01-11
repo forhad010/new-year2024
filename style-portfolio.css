@@ -36,7 +36,7 @@ body{
 }
 .banner{
 
-    background-image: url("images/Banner image.png");
+    background-image: url("../images/Banner image.png");
     background-repeat: no-repeat;    
     width: 1320px;
     height: 600px;
